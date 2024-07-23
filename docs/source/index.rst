@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Kubet - Thương Hiệu Cá Độ Trực Tuyến Đáng Tin Cậy Tại Việt Nam - kubet.builders
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Kubet <https://kubet.builders/>`_ là một thương hiệu cá độ trực tuyến nổi bật tại Việt Nam, cung cấp một loạt các dịch vụ từ thể thao, casino trực tuyến đến xổ số. Với giao diện người dùng thân thiện và dịch vụ hỗ trợ chuyên nghiệp, Kubet đã trở thành sự lựa chọn ưa thích của nhiều người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Kubet nổi bật nhờ vào sự bảo mật thông tin khách hàng và phương thức thanh toán nhanh chóng, chỉ mất vài phút. Kubet còn nổi bật với sự đa dạng trong sản phẩm, bao gồm nhiều trò chơi hot và hấp dẫn. Để đăng ký và nhận hỗ trợ, người dùng có thể truy cập trang chính thức của Kubet tại Kubet.builders.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 24 Ký Con, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh. 
 
-Contents
---------
+Phone: 0998 999 999. 
 
-.. toctree::
+Email: kubet@gmail.com. 
 
-   usage
-   api
+Website: https://kubet.builders/
+
+#kubet #nhacaikubet #trangchukubet #dangkykubet #linkkubet
